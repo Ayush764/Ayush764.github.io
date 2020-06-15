@@ -10,4 +10,4 @@ I want to become an innovator and help people by my innovations in future and I 
 
 This is the official link of my website-
 
-https://ayushtech1.github.io/myweb/
+https://ayush764.github.io/myweb/
