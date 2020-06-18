@@ -1145,8 +1145,8 @@ input[type="radio"] {
     content: '\f00c'; }
   input[type="checkbox"]:focus + label:before,
   input[type="radio"]:focus + label:before {
-    border-color: #3d444a;
-    box-shadow: 0 0 0 1px #786af5; }
+    border-color: #f56a6a;
+    box-shadow: 0 0 0 1px #f56a6a; }
 
 input[type="checkbox"] + label:before {
   border-radius: 0.375em; }
@@ -2075,7 +2075,7 @@ button,
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
-  border-bottom: solid 5px rgb(87, 58, 252);
+  border-bottom: solid 5px #573afc;
   padding: 6em 0 1em 0;
   position: relative; }
   #header > * {
