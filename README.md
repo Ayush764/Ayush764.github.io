@@ -1,9 +1,7 @@
-<h1>Ayush.tech</h1>
+Ayush.tech
 
-<hr>
+Hi, friends welcome to my Website Ayush.tech
 
-<center>Hi, friends welcome to my Website Ayush.tech
-
-This is the official link of my website-</center>
+This is the official link of my website-
 
 https://ayush764.github.io/myweb/
